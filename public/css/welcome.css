@@ -1,0 +1,40 @@
+body{
+    background-color: #dfe4ea;
+}
+
+/* hero */
+#hero{
+    margin-top: 100px;
+}
+
+#hero p {
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+/* layanan */
+#layanan{
+    margin-top: 150px;
+    background-color:;
+    padding: 80px 0;
+}
+
+#layanan .card{
+    border-radius: 10px;
+}
+
+/* lokasi */
+#lokasi{
+    margin-top: 100px;
+}
+
+#lokasi iframe{
+    width: 100%;
+}
+
+/* footer */
+#footer{
+    background-color: indianred;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
